@@ -6,12 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath-007&label=Profile%20views&color=0e75b6&style=flat" alt="bharath-007" /> </p>
 </br>
-<div align="center">
-  -🌱 I’m currently learning **Frameworks, Courses**
+
+-🌱 I’m currently learning **Frameworks, Courses**
   
-  - 📫 How to reach me **bharathofficial05@gmail.com**
-  
-  -⚡ Fun fact **First, Solve the problem. Then, Write the code**
+- 📫 How to reach me **bharathofficial05@gmail.com**
+
+-⚡ Fun fact **First, Solve the problem. Then, Write the code**
   
 </div>
 <h3 align="left">Connect with me:</h3>
