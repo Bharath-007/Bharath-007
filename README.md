@@ -45,7 +45,7 @@
 ## 📊 GitHub Stats:
 
 <div align="center" >
-  <img style="height: auto; width: 40%; margin-right:5%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Bharath-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img style="height: auto; width: 40%; margin-right:5%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Bharath-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />&emsp;&emsp;
     <img style="height: auto; width: 40%; margin-left:5%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Bharath-007&theme=dark&hide_border=false" /></br></br>
      <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></br>
 </div>
