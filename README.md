@@ -10,7 +10,9 @@
 -⚡ Fun fact **First, Solve the problem. Then, Write the code**
   
 </div>
-<h3 align="left">Connect with me:</h3>
+
+## 🌐 Connect with me
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 <a href="https://linkedin.com/in/bharath-ilangovan-30a284211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharath-ilangovan-30a284211" height="30" width="40" /></a>&nbsp;
 <a href="https://stackoverflow.com/users/bharath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bharath" height="30" width="40" /></a>&nbsp;
@@ -18,7 +20,8 @@
 <a href="https://dribbble.com/bharath-007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bharath-007" height="30" width="40" /></a>&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 💻 Languages and Tools
+<!-- <h3 align="left">Languages and Tools:</h3> -->
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>&nbsp; 
@@ -40,14 +43,13 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bharath-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bharath-007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+   ![](https://github-readme-stats.vercel.app/api?username=Bharath-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=Bharath-007&theme=dark&hide_border=false)<br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 💰 You can help me by Donating
  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/bharath007) 
 
 
 ![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)</hr>
-
 Credit: [Bharath](https://github.com/Bharath-007)
