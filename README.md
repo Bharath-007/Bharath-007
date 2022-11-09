@@ -4,7 +4,9 @@
 <h3 align="center">A passionate developer from India who love learning new techs and using new tools</h3><br />
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Bharath" /></p>
 
--🌱 I’m currently learning **Frameworks, Courses**
+-🌱 I’m currently learning **Frameworks,Courses**
+
+-💬 Ask me about **c,java,html,css,bootstrap,javascript**
   
 -📫 How to reach me **bharathofficial05@gmail.com**
 
