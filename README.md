@@ -21,7 +21,6 @@
 <a href="https://dribbble.com/bharath-007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bharath-007" height="30" width="40" /></a>&nbsp;
 </p>
 </br>
-</br>
 
 ## 💻 Languages and Tools
 </br>
@@ -45,7 +44,7 @@
  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>&nbsp; 
 </p>
 </br>
-</br>
+
 
 ## 📊 GitHub Stats:
 </br>
@@ -54,12 +53,8 @@
     <img style="height: auto; width: 40%; margin-left:5%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=Bharath-007&theme=dark&hide_border=false" /></br></br>
      <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></br>
 </div>
-</br></br>
-### 💰 You can help me by Donating
- [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/bharath007)]
- 
 </br>
 </br>
 
- ## 💰 You can help me by Donating
+ ### 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/bharath007) 
