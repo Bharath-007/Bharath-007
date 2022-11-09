@@ -43,6 +43,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharath-007&show_icons=true&locale=en" alt="bharath-007" /></p>
 
 
-![footer]([https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png])</hr>
+![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)</hr>
 
 Credit: [Bharath](https://github.com/Bharath-007)
