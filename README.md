@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath-007&label=Profile%20views&color=0e75b6&style=flat" alt="bharath-007" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bharath-007&label=Profile%20views&color=0e75b6&style=flat" alt="bharath-007" /> </p>
 
 - 🌱 I’m currently learning **Frameworks, Courses**
 
