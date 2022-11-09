@@ -2,7 +2,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Bharath</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer from India</h3><br />
+I love learning new techs and using new tools. I also love drinking Atay (Tea in Ar - Morocco) while coding.
+<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath-007&label=Profile%20views&color=0e75b6&style=flat" alt="bharath-007" /> </p>
 </br>
