@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath-007&label=Profile%20views&color=0e75b6&style=flat" alt="bharath-007" /></p>
 <h3 align="center">A passionate developer from India who love learning new techs and using new tools</h3><br />
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Bharath" /></p>
 
 -🌱 I’m currently learning **Frameworks, Courses**
   
