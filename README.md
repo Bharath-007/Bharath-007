@@ -9,7 +9,7 @@
 
 -🌱 I’m currently learning **Frameworks, Courses**
   
-- 📫 How to reach me **bharathofficial05@gmail.com**
+-📫 How to reach me **bharathofficial05@gmail.com**
 
 -⚡ Fun fact **First, Solve the problem. Then, Write the code**
   
