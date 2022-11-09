@@ -6,7 +6,7 @@
 
 -🌱 I’m currently learning **Frameworks,Courses**
 
--💬 Ask me about **c,java,html,css,bootstrap,javascript**
+-💬 Ask me about **c,java,html,css,bootstrap,javascript,figma(UI/UX)**
   
 -📫 How to reach me **bharathofficial05@gmail.com**
 
