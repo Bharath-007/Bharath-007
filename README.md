@@ -1,3 +1,6 @@
+![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+
+
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -23,3 +26,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharath-007&show_icons=true&locale=en&layout=compact" alt="bharath-007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharath-007&show_icons=true&locale=en" alt="bharath-007" /></p>
+
+![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
+
+Credit: [Bharath](https://github.com/Bharath-007)
+
