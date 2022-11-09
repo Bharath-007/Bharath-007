@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm Bharath</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bharath-007&label=Profile%20views&color=0e75b6&style=flat" alt="bharath-007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath-007&label=Profile%20views&color=0e75b6&style=flat" alt="bharath-007" /> </p>
+</br>
 
 - 🌱 I’m currently learning **Frameworks, Courses**
 
@@ -27,7 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharath-007&show_icons=true&locale=en" alt="bharath-007" /></p>
 
-![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
+![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)</hr>
 
 Credit: [Bharath](https://github.com/Bharath-007)
-
