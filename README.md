@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer from India who love learning new techs and using new tools</h3><br />
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Bharath" /></p>
 
--🧑‍💻I'm now working as an intern at Calibraint Technologies.
+-🧑‍💻I'm now working as an Frontend developer at Cantier Systems.
 
 -🌱 I’m currently learning **Frameworks,Courses**
 
